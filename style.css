@@ -1,0 +1,51 @@
+body {
+    background-image: url(fondo.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.container {
+    margin-top: 140px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.cajavideo1 {
+    width: 500px;
+}
+
+.col {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contacts,
+.icon {
+    display: flex;
+    align-items: row;
+    justify-content: center;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.formulario1 {
+    padding: 10px;
+    background-color: rgba(240, 248, 255, 0.426);
+    width: 350px;
+}
+
+.btn {
+    margin-top: 15px;
+}
+
+.card-text, .accordion-body {
+
+text-align: left;
+}
+
+.offcanvas-title {
+
+    color: yellow;
+}
+
